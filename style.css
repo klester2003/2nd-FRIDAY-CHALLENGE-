@@ -1,0 +1,122 @@
+.Title
+{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px red;
+    font-size: 35px;
+}
+.Home
+{
+    background-color: yellowgreen;
+}
+
+.History
+{
+    background-color: yellow;
+}
+body
+{
+    background-color:black;
+}
+.Description
+{
+    color: white;
+    font-size: 21px;
+    text-align: center;
+    width: 700px;
+}
+.multiplayer
+{
+    color: white;
+}
+.Multi
+{
+    color: white;
+    width: 700px;
+    text-align: center;
+    font-size: 21px;
+}
+.Customization 
+{
+    color:white;
+    /* margin-left: 50%; */
+    /* margin-top: -83% */
+}
+.Zombies
+{
+    color:white;
+}
+.Zomb
+{
+    color:white;
+    width: 700px;
+    text-align: center;
+    font-size: 21px;
+}
+.Battle
+{
+    color: white;
+}
+
+.Royale
+{
+    color:white;
+    width: 700px;
+    text-align: center;
+    font-size: 21px;
+}
+.modes
+{
+    color: white;
+    width: 700px;
+    text-align: center;
+    font-size: 21px;
+}
+
+.Simple
+{
+    color:white;
+}
+
+.Mode
+{
+    color: white;
+    width: 700px;
+    text-align: center;
+    font-size: 21px;
+}
+.Half-page
+{
+    margin-left: 50%;
+    margin-top: -232.5%;
+}
+.Cus 
+{
+    padding-bottom: 50px;
+}
+.H
+{
+    color: white;
+    font-size: 21px;
+    text-align: center;
+}
+.Weapons
+{
+    color: white;
+}
+.Perks
+{
+    color:white;
+}
+.Weapon-skill
+{
+    color: white;
+}
+.Score
+{
+    color:white;
+}
+.Characters
+{
+    color:white;
+}
